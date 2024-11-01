@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81gepf1eMqL.jpg",
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publishYear": 1960,
+      "genre": "Fiction"
+    },
+    {
+      "id": 2,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "name": "1984",
+      "author": "George Orwell",
+      "publishYear": 1949,
+      "genre": "Dystopian"
+    },
+    {
+      "id": 3,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81GqtNbs%2BPL.jpg",
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publishYear": 1813,
+      "genre": "Romance"
+    },
+    {
+      "id": 4,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publishYear": 1925,
+      "genre": "Fiction"
+    },
+    {
+      "id": 5,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81PRVY2dBJL.jpg",
+      "name": "Moby Dick",
+      "author": "Herman Melville",
+      "publishYear": 1851,
+      "genre": "Adventure"
+    },
+    {
+      "id": 6,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81Ewr0h8A4L.jpg",
+      "name": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publishYear": 1869,
+      "genre": "Historical Fiction"
+    },
+    {
+      "id": 7,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "publishYear": 1951,
+      "genre": "Fiction"
+    },
+    {
+      "id": 8,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "name": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "publishYear": 1937,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 9,
+      "img-url": "https://images-na.ssl-images-amazon.com/images/I/91H9Ygo8pDL.jpg",
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publishYear": 1866,
+      "genre": "Psychological Fiction"
+    }
+  ]
+  
