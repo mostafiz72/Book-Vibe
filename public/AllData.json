@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81gepf1eMqL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/81gepf1eMqL.jpg",
       "name": "To Kill a Mockingbird",
       "author": "Harper Lee",
       "publishYear": 1960,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
       "name": "1984",
       "author": "George Orwell",
       "publishYear": 1949,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81GqtNbs%2BPL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/81GqtNbs%2BPL.jpg",
       "name": "Pride and Prejudice",
       "author": "Jane Austen",
       "publishYear": 1813,
@@ -25,7 +25,7 @@
     },
     {
       "id": 4,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/81af+MCATTL.jpg",
       "name": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "publishYear": 1925,
@@ -33,7 +33,7 @@
     },
     {
       "id": 5,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81PRVY2dBJL.jpg",
+      "img_url": "https://m.media-amazon.com/images/I/71i+UVK5aYL._AC_UF1000,1000_QL80_.jpg",
       "name": "Moby Dick",
       "author": "Herman Melville",
       "publishYear": 1851,
@@ -41,7 +41,7 @@
     },
     {
       "id": 6,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81Ewr0h8A4L.jpg",
+      "img_url": "https://m.media-amazon.com/images/I/81-jzjH3k8L._AC_UF1000,1000_QL80_.jpg",
       "name": "War and Peace",
       "author": "Leo Tolstoy",
       "publishYear": 1869,
@@ -49,7 +49,7 @@
     },
     {
       "id": 7,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
       "name": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "publishYear": 1951,
@@ -57,7 +57,7 @@
     },
     {
       "id": 8,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+      "img_url": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
       "name": "The Hobbit",
       "author": "J.R.R. Tolkien",
       "publishYear": 1937,
@@ -65,7 +65,7 @@
     },
     {
       "id": 9,
-      "img-url": "https://images-na.ssl-images-amazon.com/images/I/91H9Ygo8pDL.jpg",
+      "img_url": "https://formal-settings.com/wp-content/uploads/2023/10/Notes-on-Book-Design-Formal-Settings-Onomatopee_Thumb.jpg",
       "name": "Crime and Punishment",
       "author": "Fyodor Dostoevsky",
       "publishYear": 1866,

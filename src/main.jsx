@@ -9,7 +9,7 @@ import App from './App.jsx'
 import Error from './Conponents/Error.jsx'
 import Books from './Conponents/Books.jsx';
 import Default from './Conponents/Default.jsx';
-
+import SingleBook from './Conponents/SingleBook.jsx';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +24,11 @@ const router = createBrowserRouter([
        {
         path: "/books",
         element: <Books />,
+       },
+       {
+        path: "books/:id/",
+        element: <SingleBook />,
+        loader: () => fetch('/AllData.json'),
        },
     ],
   },
